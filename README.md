@@ -32,4 +32,3 @@ from web and mobile applications to AI-powered solutions.
 📱 Interested in Web & Mobile Development
 🧠 Currently strengthening Java, DSA & problem solving
 🚀 Always experimenting with new technologies
-♟️ Chess | 📸 Photography | 🏏 Cricket
