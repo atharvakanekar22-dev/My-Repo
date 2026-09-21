@@ -23,7 +23,7 @@ from web and mobile applications to AI-powered solutions.
 
 ---
 
-## ⚡ A little about myself 
+## ⚡ A little about me
 
 ```text
 🎓 MCA Student
